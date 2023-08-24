@@ -1,5 +1,5 @@
 # Authentication App
-<b>This is a "Authentication" app. Writed by firebase and react</b>
+<b>This is a "Authentication" app. Created by firebase and react</b>
 <br><br>
 <img src="https://github.com/shzehra93/firebase/assets/126316477/f8c657ef-d82b-409e-aa58-ee896bf835d5" width="480" height="240">
 <br><br>

@@ -1,3 +1,12 @@
+# Authentication App
+<b>This is a "Authentication" app. Writed by firebase and react</b>
+<br><br>
+<img src="https://github.com/shzehra93/firebase/assets/126316477/f8c657ef-d82b-409e-aa58-ee896bf835d5" width="480" height="240">
+<br><br>
+<img src="https://github.com/shzehra93/firebase/assets/126316477/3b8cb15f-7c68-4f31-93fb-d07b3c5c3fbc" width="480" height="240">
+<br><br>
+<img src="https://github.com/shzehra93/firebase/assets/126316477/7802f2bb-7626-475a-a85e-3f5aa9495e72" width="480" height="240">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
